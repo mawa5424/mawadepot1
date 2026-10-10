@@ -1,0 +1,4 @@
+  
+
+adresse ip reseau 192.168.1.0
+masque de sous reseau 255.255.255.0
